@@ -1,0 +1,7 @@
+{
+  "name": "Employee Profile Card",
+  "description": "Interactive Employee Profile Card generator that parses structural codes, computes bio summaries, and displays digital credential cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
